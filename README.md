@@ -29,4 +29,4 @@ seaborn 0.9.0
 
 ## Visualization
 
-[image](images\Top%20100%20in%20a%2020%20year%20span.png)
+![](images\Top%20100%20in%20a%2020%20year%20span.png)
